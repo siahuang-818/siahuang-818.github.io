@@ -82,4 +82,4 @@ email: ""
 I received my Bachelor's degree in Japanese with a minor in Law from the University of International Business and Economics (UIBE) in Beijing. Since 2024, I’ve been pursuing a Master’s degree in Law at Keio University in Tokyo, focusing on corporate law while also exploring the connections between language, logic, and intelligent systems. As I studied law and linguistics, I gradually developed a strong interest in artificial intelligence—especially in how it intersects with legal reasoning and natural language processing.
 
 Beyond academics, I’ve built up technical skills in Python, C# and YOLO, and gained hands-on experience through internships at Zhejiang Libiao Robotics and the Shanghai Pudong People’s Court. These experiences allowed me to work across disciplines, from legal documentation to real-world robotics, shaping my unique interdisciplinary approach that bridges the humanities and computational technologies.
-Education
+
