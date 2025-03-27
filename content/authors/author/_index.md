@@ -21,13 +21,9 @@ organizations:
 bio: <>
 
 interests:
-- Non-Orthogonal Multiple Access
-- Backscatter Communication
-- Convex Optimization
-- Non-convex Optimization
-- Matching Theory
-- Cognitive Radio
-- Fluid Antenna System
+- Computational Linguistics
+- Artificial Intelligence
+- Legal Technology
 
 education:
   courses:
