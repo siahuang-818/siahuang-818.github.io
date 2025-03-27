@@ -55,7 +55,7 @@ social:
 #  link: https://github.com/erawijantari
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/%E6%80%9D%E8%B6%8A-%E9%BB%84-a93527341/
+  link: https://www.linkedin.com/in/siyue-huang-a93527341
   
 #- icon: orcid
 #  icon_pack: fab
