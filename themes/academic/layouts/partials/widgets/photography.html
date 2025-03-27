@@ -1,0 +1,58 @@
+{{ $ := .root }}
+{{ $page := .page }}
+
+<!-- Accomplishments widget -->
+<div class="row">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>{{ with $page.Title }}{{ . | markdownify }}{{ end }}</h1>
+    {{ with $page.Params.subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
+  </div>
+  <div class="col-12 col-lg-8">
+
+      {{ if $page.Content }}
+        <div class="card experience course">
+          <div class="card-body">
+              {{ with $page.Content }}{{ . }}{{ end }}
+          </div>
+        </div>
+
+      {{ end }}
+
+
+
+    <style>
+      .photo-wrapper .photo-item .photo-img {
+        width: 100%;
+      }
+      .photo-wrapper .photo-item {
+        width: 48%;
+        margin: 0  0 1rem 0;
+      }
+      .photo-wrapper {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+
+      }
+    </style>
+
+    <div class="card experience course">
+      <div class="card-body">
+        <div class="photo-wrapper">
+
+            {{ if $page.Params.item }}
+              {{ range $page.Params.item}}
+                <div class="photo-item" >
+                  <a href="{{ printf "/img/%s" .photography_path | relURL }}" target="_blank">
+                    <img  class="photo-img" src="{{ printf "/img/%s" .photography_path | relURL }}" alt="{{ .photography_title }}" />
+                  </a>
+                </div>
+              {{end}}
+            {{end}}
+        </div>
+
+      </div>
+    </div>
+
+  </div>
+</div>
