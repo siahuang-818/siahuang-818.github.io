@@ -34,7 +34,7 @@ subtitle = ""
   publication_name = "My Kpop Outfits"
   publication_url = "https://github.com/siahuang-818/my-kpop-outfits"
 #  writer_names = "**D. Lin**, S. Al-Basit, K. Wang and Z. Ding"
-  organization = "I developed a K-pop fashion website using HTML and CSS to create a visually appealing and user-friendly platform. By enhancing the user experience, I ensured that visitors can easily explore the latest K-pop trends and styling tips."
+  organization = "The website was developed using HTML and CSS to create a visually appealing and user-friendly platform focused on K-pop fashion. By enhancing the user experience, the website ensures that visitors can easily explore the latest K-pop trends and styling tips."
 
  publication_name = "Grid World"
   publication_url = "https://github.com/siahuang-818/GridWorld"
