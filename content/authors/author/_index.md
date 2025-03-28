@@ -29,11 +29,11 @@ education:
   courses:
   - course: Master of Laws
     institution: Keio University — Tokyo, Japan
-    year: April 2024-April 2026
+    year:2024 - April 2026
     
   - course: Bachelor of Arts in Japanese (Major), Minor in Law
     institution: University of International Business and Economics (UIBE) — Beijing, China 
-    year: Sept 2019-July 2023
+    year: Sept 2019 - July 2023
      
 
 # Social/Academic Networking
