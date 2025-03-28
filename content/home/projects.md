@@ -36,7 +36,8 @@ subtitle = ""
 #  writer_names = "**D. Lin**, S. Al-Basit, K. Wang and Z. Ding"
   organization = "The website was developed using HTML and CSS to create a visually appealing and user-friendly platform focused on K-pop fashion. By enhancing the user experience, the website ensures that visitors can easily explore the latest K-pop trends and styling tips."
 
- publication_name = "Grid World"
+[[item]]
+  publication_name = "Grid World"
   publication_url = "https://github.com/siahuang-818/GridWorld"
   organization = "This project enhances the classic Grid World reinforcement learning environment by introducing dynamic obstacles, increasing complexity and challenge. It serves as an ideal platform for developing advanced reinforcement learning algorithms capable of handling dynamic and uncertain environments. The project features a dynamic grid where obstacles move randomly, requiring agents to make complex decisions and learn to navigate effectively. The reward system encourages agents to reach the goal quickly while avoiding penalties from obstacles and boundary breaches. This setup is perfect for testing various algorithms, particularly those suited for dynamic settings, with potential applications in robotics, autonomous driving, and dynamic path planning. "
 
