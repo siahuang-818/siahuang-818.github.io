@@ -28,7 +28,7 @@ subtitle = ""
   publication_name = "Yolo Circle"
   publication_url = "https://github.com/siahuang-818/yolo_circle"
 #  writer_names = "**D. Lin**, S. Al-Basit, K. Wang and Z. Ding"
-  organization = "In the "YOLO Circle" project, the goal was to detect and recognize circles and rectangles using the YOLO (You Only Look Once) model. The process involved capturing images with these shapes, annotating the dataset, and training the YOLO model. By adjusting the number of training epochs, the project evaluated the model's performance and tested the boundaries of YOLO's effectiveness. Additionally, signs of overfitting were monitored by comparing training and validation performance, and optimization strategies like data augmentation and regularization were applied if necessary. This project provided insights into YOLO's capabilities and limitations in simple shape detection tasks."
+  organization = "In the \"YOLO Circle\" project, the goal was to detect and recognize circles and rectangles using the YOLO (You Only Look Once) model. The process involved capturing images with these shapes, annotating the dataset, and training the YOLO model. By adjusting the number of training epochs, the project evaluated the model's performance and tested the boundaries of YOLO's effectiveness. Additionally, signs of overfitting were monitored by comparing training and validation performance, and optimization strategies like data augmentation and regularization were applied if necessary. This project provided insights into YOLO's capabilities and limitations in simple shape detection tasks."
 
 [[item]]
   publication_name = "My Kpop Outfits"
